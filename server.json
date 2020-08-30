@@ -1,28 +1,28 @@
 {
   "foods": [
     {
-      "id": 1,
-      "name": "Ao molho",
-      "description": "Macarrão ao molho branco, fughi e cheiro verde das montanhas.",
-      "price": "19.90",
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png",
+      "name": "Macarrão ao Molho ",
+      "price": "50,00",
+      "description": "Delicioso Macarrão ao molho fuji",
       "available": true,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png"
+      "id": 6
     },
     {
-      "id": 2,
-      "name": "Veggie",
-      "description": "Macarrão com pimentão, ervilha e ervas finas colhidas no himalaia.",
-      "price": "21.90",
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png",
+      "name": "Prato a Moda Italiana",
+      "price": "32.00",
+      "description": "Uno prato mutcho bueno",
       "available": true,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png"
+      "id": 7
     },
     {
-      "id": 3,
-      "name": "A la Camarón",
-      "description": "Macarrão com vegetais de primeira linha e camarão dos 7 mares.",
-      "price": "25.90",
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png",
+      "name": "Filé ao molho xadrez",
+      "price": "22.50",
+      "description": "Uno filé",
       "available": true,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+      "id": 8
     }
   ]
 }
